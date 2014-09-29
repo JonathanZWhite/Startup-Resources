@@ -26,7 +26,6 @@ Curated list of startup resources
 ##Videos
 - [Google Talks](https://www.youtube.com/user/AtGoogleTalks/videos)
 - [Authors@Google: Eric Ries "The Lean Startup"](https://www.youtube.com/watch?v=fEvKo90qBns)
-
 - [Marc Andreessen & Dave McClure: The Future of Startups, VC's, and Technology](https://www.youtube.com/watch?v=pLNQZegq7KA&app=desktop)
 - [Foundation 37 // David Byttow](https://www.youtube.com/watch?feature=player_embedded&v=7PmBk7hgUqg)
 - [Startup Grind Feat Scott Heiferman](https://www.youtube.com/watch?v=LQI7o3eNx_8&feature=youtu.be&t=25m33s)
