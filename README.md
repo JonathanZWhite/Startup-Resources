@@ -3,7 +3,7 @@ startup-resources
 
 Curated list of startup resources
 
-###Reading
+##Reading
 
 ####Hacker News
 [Avoiding Burnout](https://news.ycombinator.com/item?id=5630445)
@@ -18,7 +18,7 @@ Curated list of startup resources
 [Sam Altman's blog](http://blog.samaltman.com/)
 [Paul Graham's essays](http://www.paulgraham.com/articles.html)
 
-###Videos
+##Videos
 [Google Talks](https://www.youtube.com/user/AtGoogleTalks/videos)
 [Authors@Google: Eric Ries "The Lean Startup"](https://www.youtube.com/watch?v=fEvKo90qBns)
 
@@ -28,9 +28,9 @@ Curated list of startup resources
 [Vinod Khosla (Khosla Ventures) at Startup Grind Silicon Valley](https://www.youtube.com/watch?v=U5J7bd7nzmw)
 [UX Design & Marketing Tactics - Shopify](https://www.youtube.com/watch?v=sBDOq5B4nTo)
 
-###Courses
+##Courses
 [How to start a startup](https://startupclass.co/course/how-to-start-a-startup)
 
-###Inspiration
+##Inspiration
 [Steve Jobs' Vision of the World](https://www.youtube.com/watch?feature=player_embedded&v=UvEiSa6_EPA)
 
