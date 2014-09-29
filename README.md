@@ -13,10 +13,15 @@ Curated list of startup resources
 [Ask HN: Your favorite YouTube channels?](https://news.ycombinator.com/item?id=7609584)
 [Ask HN: What source code is worth studying?](https://news.ycombinator.com/item?id=7602237)
 
+####Reddit
+[Launched new messaging app 2 weeks ago. 2 million messages sent, 70,000 users so far. This is what I've done to get traction. Also, AMA.](http://www.reddit.com/r/Entrepreneur/comments/1saar6/launched_new_messaging_app_2_weeks_ago_2_million/)
+[IamA Growth Hacker AMA](http://www.reddit.com/r/startups/comments/1nx27j/iama_growth_hacker_ama/)
+
 ####General
-[How to solve the cold-start problem for social products](http://andrewchen.co/2014/03/27/how-to-solve-the-cold-start-problem-for-social-products/)
 [Sam Altman's blog](http://blog.samaltman.com/)
 [Paul Graham's essays](http://www.paulgraham.com/articles.html)
+[How to solve the cold-start problem for social products](http://andrewchen.co/2014/03/27/how-to-solve-the-cold-start-problem-for-social-products/)
+[The Hacker’s Guide to User Acquisition](http://www.austenallred.com/the-hackers-guide-to-user-acquisition/)
 
 ##Videos
 [Google Talks](https://www.youtube.com/user/AtGoogleTalks/videos)
@@ -30,6 +35,9 @@ Curated list of startup resources
 
 ##Courses
 [How to start a startup](https://startupclass.co/course/how-to-start-a-startup)
+
+##Tools
+[Useronboard.com](https://www.useronboard.com/)
 
 ##Inspiration
 [Steve Jobs' Vision of the World](https://www.youtube.com/watch?feature=player_embedded&v=UvEiSa6_EPA)
