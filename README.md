@@ -20,6 +20,7 @@ Curated list of startup resources
 ####General
 [Sam Altman's blog](http://blog.samaltman.com/)
 [Paul Graham's essays](http://www.paulgraham.com/articles.html)
+[Gene	Pool Engineering For	Entrepreneurs - Vinod Khosla](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 [How to solve the cold-start problem for social products](http://andrewchen.co/2014/03/27/how-to-solve-the-cold-start-problem-for-social-products/)
 [The Hacker’s Guide to User Acquisition](http://www.austenallred.com/the-hackers-guide-to-user-acquisition/)
 
