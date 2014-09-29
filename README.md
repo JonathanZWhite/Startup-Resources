@@ -6,12 +6,12 @@ Curated list of startup resources
 ##Reading
 
 ####Hacker News
-[Avoiding Burnout](https://news.ycombinator.com/item?id=5630445)
-[I am burned out while still in learning phase](https://news.ycombinator.com/item?id=7435601)
+- [Avoiding Burnout](https://news.ycombinator.com/item?id=5630445)
+- [I am burned out while still in learning phase](https://news.ycombinator.com/item?id=7435601)
 
-[Ask HN: Where I can post my startup to get beta users?](https://news.ycombinator.com/item?id=7248460)
-[Ask HN: Your favorite YouTube channels?](https://news.ycombinator.com/item?id=7609584)
-[Ask HN: What source code is worth studying?](https://news.ycombinator.com/item?id=7602237)
+- [Ask HN: Where I can post my startup to get beta users?](https://news.ycombinator.com/item?id=7248460)
+- [Ask HN: Your favorite YouTube channels?](https://news.ycombinator.com/item?id=7609584)
+- [Ask HN: What source code is worth studying?](https://news.ycombinator.com/item?id=7602237)
 
 ####Reddit
 [Launched new messaging app 2 weeks ago. 2 million messages sent, 70,000 users so far. This is what I've done to get traction. Also, AMA.](http://www.reddit.com/r/Entrepreneur/comments/1saar6/launched_new_messaging_app_2_weeks_ago_2_million/)
