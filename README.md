@@ -44,5 +44,4 @@ Curated list of startup resources
 ##Accelerator / Investment Applications 
 - [reddit YC Application](http://alexisohanian.com/our-y-combinator-summer-05-application-what-w)
 - [dropbox YC Application](https://dl.dropboxusercontent.com/u/27532820/app.html)
-- 
 
