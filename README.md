@@ -41,3 +41,8 @@ Curated list of startup resources
 ##Inspiration
 - [Steve Jobs' Vision of the World](https://www.youtube.com/watch?feature=player_embedded&v=UvEiSa6_EPA)
 
+##Accelerator / Investment Applications 
+- [reddit YC Application](http://alexisohanian.com/our-y-combinator-summer-05-application-what-w)
+- [dropbox YC Application](https://dl.dropboxusercontent.com/u/27532820/app.html)
+- 
+
