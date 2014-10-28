@@ -24,6 +24,7 @@ Curated list of startup resources
 - [The Hacker’s Guide to User Acquisition](http://www.austenallred.com/the-hackers-guide-to-user-acquisition/)
 
 ##Videos
+- [StartupTalks TV](http://startuptalks.tv/)
 - [Google Talks](https://www.youtube.com/user/AtGoogleTalks/videos)
 - [Authors@Google: Eric Ries "The Lean Startup"](https://www.youtube.com/watch?v=fEvKo90qBns)
 - [Marc Andreessen & Dave McClure: The Future of Startups, VC's, and Technology](https://www.youtube.com/watch?v=pLNQZegq7KA&app=desktop)
