@@ -8,6 +8,7 @@ Curated list of startup resources
 ####Hacker News
 - [Avoiding Burnout](https://news.ycombinator.com/item?id=5630445)
 - [I am burned out while still in learning phase](https://news.ycombinator.com/item?id=7435601)
+- [#define CTO](https://news.ycombinator.com/item?id=8516777)
 - [Ask HN: Where I can post my startup to get beta users?](https://news.ycombinator.com/item?id=7248460)
 - [Ask HN: Your favorite YouTube channels?](https://news.ycombinator.com/item?id=7609584)
 - [Ask HN: What source code is worth studying?](https://news.ycombinator.com/item?id=7602237)
