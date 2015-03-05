@@ -1,9 +1,21 @@
 startup-resources
 =================
 
-Curated list of startup resources
+Curated list of startup readings
 
 ##Reading
+
+####Product
+- [Retention is King](http://andrewchen.co/retention-is-king/)
+- [What product features should I focus on?](http://calacanis.com/2015/02/02/what-product-features-should-i-focus-on/)
+- [How This Founder Turned Slow Burn Rate into a Big Exit](http://firstround.com/review/This-Founder-Turned-a-Slow-Burn-Rate-into-a-Big-Exit/)
+
+####Monetization
+- [When should you turn on revenue with your startup](http://calacanis.com/2015/02/07/when-should-you-turn-on-revenue-with-your-startup/)
+
+####Growth/Marketing
+- ["No Marketing" isn't as impressive as you think](http://www.instigatorblog.com/no-marketing-isnt-as-impressive/2015/01/26/)
+- [Growth is optional](http://www.coelevate.com/essays/growth-is-optional)
 
 ####Hacker News
 - [Avoiding Burnout](https://news.ycombinator.com/item?id=5630445)
