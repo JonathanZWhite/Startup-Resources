@@ -1,13 +1,11 @@
 startup-resources
 =================
+#Startup
+A curated list of startup readings
 
-Curated list of startup readings
-
-##Reading
-
-##Motivation
-- [Steve Jobs' Vision of the World](https://www.youtube.com/watch?feature=player_embedded&v=UvEiSa6_EPA)
-- [This startup founder filmed her struggles](https://giveit100.com/@100/9b924t)
+###Motivation
+- [Steve Jobs' Vision of the World (video)](https://www.youtube.com/watch?feature=player_embedded&v=UvEiSa6_EPA)
+- [This startup founder filmed her struggles (video)](https://giveit100.com/@100/9b924t)
 
 ###General
 - [How to start a startup (course)](https://startupclass.co/course/how-to-start-a-startup)
@@ -20,17 +18,17 @@ Curated list of startup readings
   - [Do thing's that don't scale](http://paulgraham.com/ds.html)
   - [18 Mistakes that kill startups](http://www.paulgraham.com/startupmistakes.html)
 
-####Product
+###Product
 - [Retention is King](http://andrewchen.co/retention-is-king/)
 - [What product features should I focus on?](http://calacanis.com/2015/02/02/what-product-features-should-i-focus-on/)
 - [How This Founder Turned Slow Burn Rate into a Big Exit](http://firstround.com/review/This-Founder-Turned-a-Slow-Burn-Rate-into-a-Big-Exit/)
 - [The Top 5 Reasons You Suck at Making Rational Decisions](http://conversionxl.com/top-5-reasons-suck-making-rational-decisions/)
 - [The Illusion of Product/Market Fit for SaaS Companies](http://feld.com/archives/2015/01/illusion-product-market-fit-saas-companies.html)
 
-####Monetization
+###Monetization
 - [When should you turn on revenue with your startup](http://calacanis.com/2015/02/07/when-should-you-turn-on-revenue-with-your-startup/)
 
-####Growth/Marketing
+###Growth/Marketing
 - ["No Marketing" isn't as impressive as you think](http://www.instigatorblog.com/no-marketing-isnt-as-impressive/2015/01/26/)
 - [Growth is optional](http://www.coelevate.com/essays/growth-is-optional)
 - [The Hacker’s Guide to User Acquisition](http://www.austenallred.com/the-hackers-guide-to-user-acquisition/)
@@ -42,18 +40,14 @@ Curated list of startup readings
 ###Hiring
 - [Focus on building 10x teams, not on hiring 10x developers](https://avichal.wordpress.com/2011/12/16/focus-on-building-10x-teams-not-on-hiring-10x-developers/)
 - [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe)
+- [Gene	Pool Engineering For	Entrepreneurs - Vinod Khosla](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 
-####Hacker News
+###Hacker News
 - [Avoiding Burnout](https://news.ycombinator.com/item?id=5630445)
 - [I am burned out while still in learning phase](https://news.ycombinator.com/item?id=7435601)
 - [#define CTO](https://news.ycombinator.com/item?id=8516777)
 
-####General
-- [Sam Altman's blog](http://blog.samaltman.com/)
-- [Paul Graham's essays](http://www.paulgraham.com/articles.html)
-- [Gene	Pool Engineering For	Entrepreneurs - Vinod Khosla](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
-
-####Resources
+###Resources
 - [Product Hunt](http://www.producthunt.com/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Reddit /r/startups](http://www.reddit.com/r/startups)
@@ -61,7 +55,7 @@ Curated list of startup readings
 - [StartupTalks TV (videos)](http://startuptalks.tv/)
 - [Google Talks (videos)](https://www.youtube.com/user/AtGoogleTalks/videos)
 
-##Videos
+###Videos
 - [Authors@Google: Eric Ries "The Lean Startup"](https://www.youtube.com/watch?v=fEvKo90qBns)
 - [Marc Andreessen & Dave McClure: The Future of Startups, VC's, and Technology](https://www.youtube.com/watch?v=pLNQZegq7KA&app=desktop)
 - [Foundation 37 // David Byttow](https://www.youtube.com/watch?feature=player_embedded&v=7PmBk7hgUqg)
