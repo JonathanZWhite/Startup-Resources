@@ -1,5 +1,3 @@
-startup-resources
-=================
 #Startup
 A curated list of startup readings
 
