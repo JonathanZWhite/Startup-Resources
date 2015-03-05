@@ -1,3 +1,5 @@
+startup-resources
+=================
 #Startup
 A curated list of startup readings
 
@@ -29,6 +31,7 @@ A curated list of startup readings
 - [When should you turn on revenue with your startup](http://calacanis.com/2015/02/07/when-should-you-turn-on-revenue-with-your-startup/)
 
 ###Growth/Marketing
+- [Managing growth & delivering magic (video)](https://www.youtube.com/watch?v=s7O3_tRB5t4)
 - ["No Marketing" isn't as impressive as you think](http://www.instigatorblog.com/no-marketing-isnt-as-impressive/2015/01/26/)
 - [Growth is optional](http://www.coelevate.com/essays/growth-is-optional)
 - [The Hacker’s Guide to User Acquisition](http://www.austenallred.com/the-hackers-guide-to-user-acquisition/)
