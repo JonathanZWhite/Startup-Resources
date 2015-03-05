@@ -5,10 +5,16 @@ Curated list of startup readings
 
 ##Reading
 
+###General
+- [Summary of Sam Altman's startup advice](https://static.platzi.com/media/public/uploads/54e8eec2277041a3a77fcb8f.pdf)
+- [Do thing's that don't scale](http://paulgraham.com/ds.html)
+
 ####Product
 - [Retention is King](http://andrewchen.co/retention-is-king/)
 - [What product features should I focus on?](http://calacanis.com/2015/02/02/what-product-features-should-i-focus-on/)
 - [How This Founder Turned Slow Burn Rate into a Big Exit](http://firstround.com/review/This-Founder-Turned-a-Slow-Burn-Rate-into-a-Big-Exit/)
+- [The Top 5 Reasons You Suck at Making Rational Decisions](http://conversionxl.com/top-5-reasons-suck-making-rational-decisions/)
+- [The Illusion of Product/Market Fit for SaaS Companies](http://feld.com/archives/2015/01/illusion-product-market-fit-saas-companies.html)
 
 ####Monetization
 - [When should you turn on revenue with your startup](http://calacanis.com/2015/02/07/when-should-you-turn-on-revenue-with-your-startup/)
@@ -16,6 +22,7 @@ Curated list of startup readings
 ####Growth/Marketing
 - ["No Marketing" isn't as impressive as you think](http://www.instigatorblog.com/no-marketing-isnt-as-impressive/2015/01/26/)
 - [Growth is optional](http://www.coelevate.com/essays/growth-is-optional)
+- [Ok, you launched. Now what? Here’s how to get noticed on a budget](http://capitolstartup.com/blog/ok-you-launched-now-what-heres-how-to-get-noticed-on-a-budget/)
 
 ####Hacker News
 - [Avoiding Burnout](https://news.ycombinator.com/item?id=5630445)
@@ -49,13 +56,5 @@ Curated list of startup readings
 ##Courses
 - [How to start a startup](https://startupclass.co/course/how-to-start-a-startup)
 
-##Tools
-- [Useronboard.com](https://www.useronboard.com/)
-
 ##Inspiration
 - [Steve Jobs' Vision of the World](https://www.youtube.com/watch?feature=player_embedded&v=UvEiSa6_EPA)
-
-##Accelerator / Investment Applications 
-- [reddit YC Application](http://alexisohanian.com/our-y-combinator-summer-05-application-what-w)
-- [dropbox YC Application](https://dl.dropboxusercontent.com/u/27532820/app.html)
-
