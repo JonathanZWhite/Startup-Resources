@@ -45,10 +45,9 @@ A curated list of startup readings
 - [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe)
 - [Gene	Pool Engineering For	Entrepreneurs - Vinod Khosla](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 
-###Hacker News
+###Mental Health
 - [Avoiding Burnout](https://news.ycombinator.com/item?id=5630445)
 - [I am burned out while still in learning phase](https://news.ycombinator.com/item?id=7435601)
-- [#define CTO](https://news.ycombinator.com/item?id=8516777)
 
 ###Resources
 - [Product Hunt](http://www.producthunt.com/)
