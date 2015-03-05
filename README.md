@@ -5,9 +5,20 @@ Curated list of startup readings
 
 ##Reading
 
+##Motivation
+- [Steve Jobs' Vision of the World](https://www.youtube.com/watch?feature=player_embedded&v=UvEiSa6_EPA)
+- [This startup founder filmed her struggles](https://giveit100.com/@100/9b924t)
+
 ###General
-- [Summary of Sam Altman's startup advice](https://static.platzi.com/media/public/uploads/54e8eec2277041a3a77fcb8f.pdf)
-- [Do thing's that don't scale](http://paulgraham.com/ds.html)
+- [How to start a startup (course)](https://startupclass.co/course/how-to-start-a-startup)
+- [The Lean Startup - Eric Ries (book)](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
+- [Running Lean - Ash Maurya (book)](http://www.amazon.com/Running-Lean-Iterate-Works-Series/dp/1449305172)
+- [The Four Steps to the Epiphany - Steve Blank (book)](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507)
+- [Sam Altman's blog](http://blog.samaltman.com/)
+  - [Startup advice, briefly](http://blog.samaltman.com/startup-advice-briefly)
+- [Paul Graham's essays](http://www.paulgraham.com/articles.html)
+  - [Do thing's that don't scale](http://paulgraham.com/ds.html)
+  - [18 Mistakes that kill startups](http://www.paulgraham.com/startupmistakes.html)
 
 ####Product
 - [Retention is King](http://andrewchen.co/retention-is-king/)
@@ -22,39 +33,39 @@ Curated list of startup readings
 ####Growth/Marketing
 - ["No Marketing" isn't as impressive as you think](http://www.instigatorblog.com/no-marketing-isnt-as-impressive/2015/01/26/)
 - [Growth is optional](http://www.coelevate.com/essays/growth-is-optional)
+- [The Hacker’s Guide to User Acquisition](http://www.austenallred.com/the-hackers-guide-to-user-acquisition/)
 - [Ok, you launched. Now what? Here’s how to get noticed on a budget](http://capitolstartup.com/blog/ok-you-launched-now-what-heres-how-to-get-noticed-on-a-budget/)
+- [Ask HN: Where I can post my startup to get beta users?](https://news.ycombinator.com/item?id=7248460)
+- [Launched new messaging app 2 weeks ago. 2 million messages sent, 70,000 users so far. This is what I've done to get traction. Also, AMA.](http://www.reddit.com/r/Entrepreneur/comments/1saar6/launched_new_messaging_app_2_weeks_ago_2_million/)
+- [How to solve the cold-start problem for social products](http://andrewchen.co/2014/03/27/how-to-solve-the-cold-start-problem-for-social-products/)
+
+###Hiring
+- [Focus on building 10x teams, not on hiring 10x developers](https://avichal.wordpress.com/2011/12/16/focus-on-building-10x-teams-not-on-hiring-10x-developers/)
+- [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe)
 
 ####Hacker News
 - [Avoiding Burnout](https://news.ycombinator.com/item?id=5630445)
 - [I am burned out while still in learning phase](https://news.ycombinator.com/item?id=7435601)
 - [#define CTO](https://news.ycombinator.com/item?id=8516777)
-- [Ask HN: Where I can post my startup to get beta users?](https://news.ycombinator.com/item?id=7248460)
-- [Ask HN: Your favorite YouTube channels?](https://news.ycombinator.com/item?id=7609584)
-- [Ask HN: What source code is worth studying?](https://news.ycombinator.com/item?id=7602237)
-
-####Reddit
-- [Launched new messaging app 2 weeks ago. 2 million messages sent, 70,000 users so far. This is what I've done to get traction. Also, AMA.](http://www.reddit.com/r/Entrepreneur/comments/1saar6/launched_new_messaging_app_2_weeks_ago_2_million/)
-- [IamA Growth Hacker AMA](http://www.reddit.com/r/startups/comments/1nx27j/iama_growth_hacker_ama/)
 
 ####General
 - [Sam Altman's blog](http://blog.samaltman.com/)
 - [Paul Graham's essays](http://www.paulgraham.com/articles.html)
 - [Gene	Pool Engineering For	Entrepreneurs - Vinod Khosla](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
-- [How to solve the cold-start problem for social products](http://andrewchen.co/2014/03/27/how-to-solve-the-cold-start-problem-for-social-products/)
-- [The Hacker’s Guide to User Acquisition](http://www.austenallred.com/the-hackers-guide-to-user-acquisition/)
+
+####Resources
+- [Product Hunt](http://www.producthunt.com/)
+- [Hacker News](https://news.ycombinator.com/)
+- [Reddit /r/startups](http://www.reddit.com/r/startups)
+- [Reddit /r/entrepreneurs](http://www.reddit.com/r/entrepreneur)
+- [StartupTalks TV (videos)](http://startuptalks.tv/)
+- [Google Talks (videos)](https://www.youtube.com/user/AtGoogleTalks/videos)
 
 ##Videos
-- [StartupTalks TV](http://startuptalks.tv/)
-- [Google Talks](https://www.youtube.com/user/AtGoogleTalks/videos)
 - [Authors@Google: Eric Ries "The Lean Startup"](https://www.youtube.com/watch?v=fEvKo90qBns)
 - [Marc Andreessen & Dave McClure: The Future of Startups, VC's, and Technology](https://www.youtube.com/watch?v=pLNQZegq7KA&app=desktop)
 - [Foundation 37 // David Byttow](https://www.youtube.com/watch?feature=player_embedded&v=7PmBk7hgUqg)
+- [PandoMonthly: Fireside Chat With Airbnb CEO Brian Chesky](https://www.youtube.com/watch?v=6yPfxcqEXhE)
 - [Startup Grind Feat Scott Heiferman](https://www.youtube.com/watch?v=LQI7o3eNx_8&feature=youtu.be&t=25m33s)
 - [Vinod Khosla (Khosla Ventures) at Startup Grind Silicon Valley](https://www.youtube.com/watch?v=U5J7bd7nzmw)
 - [UX Design & Marketing Tactics - Shopify](https://www.youtube.com/watch?v=sBDOq5B4nTo)
-
-##Courses
-- [How to start a startup](https://startupclass.co/course/how-to-start-a-startup)
-
-##Inspiration
-- [Steve Jobs' Vision of the World](https://www.youtube.com/watch?feature=player_embedded&v=UvEiSa6_EPA)
