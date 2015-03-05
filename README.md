@@ -15,8 +15,10 @@ A curated list of startup readings
 - [Sam Altman's blog](http://blog.samaltman.com/)
   - [Startup advice, briefly](http://blog.samaltman.com/startup-advice-briefly)
 - [Paul Graham's essays](http://www.paulgraham.com/articles.html)
+  - [How to get startup ideas](http://www.paulgraham.com/startupideas.html)
   - [Do thing's that don't scale](http://paulgraham.com/ds.html)
   - [18 Mistakes that kill startups](http://www.paulgraham.com/startupmistakes.html)
+  - [How to raise money](http://www.paulgraham.com/fr.html)
 
 ###Product
 - [Retention is King](http://andrewchen.co/retention-is-king/)
